@@ -1,0 +1,15 @@
+.form {
+    width: 50vw;
+    margin: 15vh auto;
+    height: 70vh;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
