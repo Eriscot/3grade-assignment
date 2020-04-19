@@ -15,7 +15,7 @@ const LoginComponent = () => {
                 </Link>
             </LinkRouter>
             <br />
-            <Button variant="contained" color="primary">Вход</Button>
+            <Button variant="contained" color="primary" size="small">Вход</Button>
         </AuthFormComponent>
     );
 }

@@ -9,7 +9,7 @@ const RegisterComponent = () => {
             <TextField type="text" label="ФИО" />
             <TextField type="password" label="Пароль" />
             <br />
-            <Button variant="contained" color="primary">Подтвердить</Button>
+            <Button variant="contained" color="primary" size="small">Подтвердить</Button>
         </AuthFormComponent>
     );
 }
